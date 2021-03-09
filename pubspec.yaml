@@ -1,0 +1,63 @@
+name: mobex_go
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  intl:
+  image_picker:
+  http:
+  shared_preferences:
+  flutter_bloc:
+  provider:
+  url_launcher:
+  fluttertoast:
+  strings:
+  query_params:
+  basic_utils:
+  uuid:
+  flutter_launcher_icons:
+  firebase_messaging:
+  cloud_firestore:
+  firebase_storage:
+  file_picker:
+  path:
+  flare_flutter:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/images/mobex_go.png"
+  image_path_android: "assets/images/mobex_go.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/flare/
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/quicksand_medium.ttf
+          style: normal
+        - asset: assets/fonts/quicksand_bold.otf
+          weight: 700
+
+
+    - family: RaimageProfileleway
+      fonts:
+        - asset: assets/fonts/raleway_regular.ttf
+          style: normal
+        - asset: assets/fonts/raleway_medium.ttf

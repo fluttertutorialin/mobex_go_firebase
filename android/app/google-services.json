@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839506647853",
+    "firebase_url": "https://mobexgo.firebaseio.com",
+    "project_id": "mobexgo",
+    "storage_bucket": "mobexgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839506647853:android:150ffdfcc0ef908c2ad1a4",
+        "android_client_info": {
+          "package_name": "com.mobex.mobex_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839506647853-55tr71mufkg1mr6qpiphb1cbjp1mp4nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobex.mobex_go",
+            "certificate_hash": "cdd124784d97b32098a3b109ed737a5a57849395"
+          }
+        },
+        {
+          "client_id": "839506647853-n0npbmk2eg6bepup8i0q6propc12uuf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2YgEHMEkoT0uYf3zIS9bXKJHpyYuhuio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839506647853-n0npbmk2eg6bepup8i0q6propc12uuf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
